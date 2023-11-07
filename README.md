@@ -58,4 +58,4 @@ To remove an author from the records, click on the "Delete" button next to the a
 Contributing
 Contributions to this project are welcome! If you find any issues or would like to suggest improvements, please feel free to open a pull request or create an issue in the repository.
 
-Designed and developed by [SwasticKumar].
+Designed and developed by [Swastic_Kumar].
