@@ -1,0 +1,25 @@
+.card{
+  background: rgb(254, 254, 254);
+
+}
+
+.heading{
+background:rgb(116, 113, 113);
+
+}
+
+.text-light{
+position: relative;
+top: 31px;
+
+
+}
+
+body{
+  background-image: url("/image/library.jpg");
+  
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
