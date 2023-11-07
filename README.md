@@ -1,6 +1,6 @@
-# Day22React-Formik-Validation-Task
+# React-Formik-Validation-Task
 
-[https://main--eloquent-dango-9817aa.netlify.app/books](https://main--eloquent-dango-9817aa.netlify.app/)
+[https://swastic-library-management-system.netlify.app](https://swastic-library-management-system.netlify.app)
 
 Library Management System
 This project is an admin dashboard for a library management system built using React, designed to help users manage book and author details efficiently. The dashboard provides functionality to add, edit, and delete book and author records. Form validations are implemented using Formik, ensuring data accuracy and integrity.
@@ -27,12 +27,12 @@ Clone this repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/your-username/library-management-dashboard.git
+git clone https://github.com/SwasticKumar/Formik-Library-Management-System.git
 Navigate to the project directory:
 
 bash
 Copy code
-cd library-management-dashboard
+cd Formik-Library-Management-System
 Install the dependencies using your preferred package manager (npm or yarn):
 
 Copy code
@@ -58,4 +58,4 @@ To remove an author from the records, click on the "Delete" button next to the a
 Contributing
 Contributions to this project are welcome! If you find any issues or would like to suggest improvements, please feel free to open a pull request or create an issue in the repository.
 
-Designed and developed by [Sindhu].
+Designed and developed by [SwasticKumar].
